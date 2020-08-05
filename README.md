@@ -11,6 +11,7 @@ AMA on working in tech, my DM is open.
 <a href="https://medium.com/@dvirsegal"><img height="30" src="https://github.com/DeJaVoo/DeJavoo/blob/master/medium.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/3125120/dejavo"><img height="30" src="https://github.com/DeJaVoo/DeJavoo/blob/master/so.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/dejavo"><img height="30" width="30" src="https://github.com/DeJaVoo/DeJavoo/blob/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dvirsegal.netlify.app/"><img height="30" width="30" src="https://github.com/DeJaVoo/DeJavoo/blob/master/website.jpg?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ### My Digital Footprints 🌱

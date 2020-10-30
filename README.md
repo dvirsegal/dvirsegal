@@ -8,7 +8,7 @@ AMA on working in tech, my DM is open.
 <p align='center'>
 <a href="https://www.linkedin.com/in/dvirsegal/"><img height="30" src="https://github.com/DeJaVoo/DeJavoo/blob/master/linkedin.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/dvir_segal"><img height="30" src="https://github.com/DeJaVoo/DeJavoo/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@dvirsegal"><img height="30" src="https://github.com/DeJaVoo/DeJavoo/blob/master/medium.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dvirsegal.medium.com/"><img height="30" src="https://github.com/DeJaVoo/DeJavoo/blob/master/medium.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/3125120/dejavo"><img height="30" src="https://github.com/DeJaVoo/DeJavoo/blob/master/so.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dev.to/dejavo"><img height="30" width="30" src="https://github.com/DeJaVoo/DeJavoo/blob/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://dvirsegal.netlify.app/"><img height="30" width="30" src="https://github.com/DeJaVoo/DeJavoo/blob/master/website.jpg?raw=true"></a>&nbsp;&nbsp;
@@ -16,7 +16,7 @@ AMA on working in tech, my DM is open.
 
 ### My Digital Footprints 🌱
 
-I regularly blog on my personal [Medium](https://medium.com/@dvirsegal) blog.
+I regularly blog on my personal [Medium](https://dvirsegal.medium.com/) blog.
 
 Writing about my software development experiece, soft skills and stuff I learn along the way.
 

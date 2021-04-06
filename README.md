@@ -22,8 +22,8 @@ Writing about my software development experiece, soft skills and stuff I learn a
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-   - Developing CT based clinical application <br/>
-   - Working with .NET Framework (C#) <br/>
+   - Developing innovative genetic counseling solutions which put the customers at the center. <br/>
+   - Working with Java Spring <br/>
    - Building something awesome <br/>
    - Blogging (Posting, SEO, Readability etc) <br/>
    - Team Leading 

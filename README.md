@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Dvir Segal!
 I am a software developer in the quest for knowledge. I truly believe there's no such thing as a stupid question.
 What guides me is that the code is the mean for the business and not the end. I love tech, being up to date with it, having a passion for learning and sharing my knowledge.
 If you found value in something I have created, please feel free to give me a shout out or give some ♥ [@dvir_segal](https://twitter.com/dvir_segal). 

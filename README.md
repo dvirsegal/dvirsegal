@@ -29,7 +29,9 @@ Writing about my software development experiece, soft skills and stuff I learn a
    - Team Leading 
 </details>
 
-![Dejavoo's github stats](https://github-readme-stats.vercel.app/api?username=Dejavoo&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000&bg_color=00000000&text_color=3498db)
+![Dvir Segal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dejavoo&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000)
+
+![Dvir Segal's github stats](https://github-readme-stats.vercel.app/api?username=Dejavoo&hide=contribs,prs&show_icons=true&hide_border=true&title_color=3498db&bg_color=00000000&text_color=3498db)
 
 <a href="https://stackoverflow.com/users/3125120/dejavo"><img src="https://stackoverflow.com/users/flair/3125120.png?theme=clean" width="208" height="58" alt="profile for DeJaVo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for DeJaVo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"></a>

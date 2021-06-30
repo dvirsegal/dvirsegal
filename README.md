@@ -34,3 +34,5 @@ Writing about my software development experiece, soft skills and stuff I learn a
 <a href="https://stackoverflow.com/users/3125120/dejavo"><img src="https://stackoverflow.com/users/flair/3125120.png?theme=dark" width="208" height="58" alt="profile for DeJaVo at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for DeJaVo at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/ellerbrock/open-source-badges/"><img src="https://badges.frapsoft.com/os/v1/open-source.png?v=103"></a>
 </p>
+
+<a href="https://www.buymeacoffee.com/dvirsegal" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>

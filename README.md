@@ -6,12 +6,12 @@ If you found value in something I have created, please feel free to give me a sh
 AMA on working in tech, my DM is open.
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/dvirsegal/"><img height="50" src="https://github.com/DeJaVoo/DeJavoo/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/dvir_segal"><img height="50" src="https://github.com/DeJaVoo/DeJavoo/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dvirsegal.medium.com/"><img height="50" src="https://github.com/DeJaVoo/DeJavoo/blob/master/medium.jpeg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/3125120/dejavo"><img height="50" src="https://github.com/DeJaVoo/DeJavoo/blob/master/so.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dev.to/dejavo"><img height="50" width="50" src="https://github.com/DeJaVoo/DeJavoo/blob/master/devto.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://dvirsegal.netlify.app/"><img height="50" width="50" src="https://github.com/DeJaVoo/DeJavoo/blob/master/website.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dvirsegal/"><img height="50" src="https://github.com/dvirsegal/dvirsegal/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/dvir_segal"><img height="50" src="https://github.com/dvirsegal/dvirsegal/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dvirsegal.medium.com/"><img height="50" src="https://github.com/dvirsegal/dvirsegal/blob/master/medium.jpeg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/3125120/dejavo"><img height="50" src="https://github.com/dvirsegal/dvirsegal/blob/master/so.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dev.to/dejavo"><img height="50" width="50" src="https://github.com/dvirsegal/dvirsegal/blob/master/devto.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://dvirsegal.netlify.app/"><img height="50" width="50" src="https://github.com/dvirsegal/dvirsegal/blob/master/website.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
 ### My Digital Footprints 🌱

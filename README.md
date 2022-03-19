@@ -14,6 +14,9 @@ AMA on working in tech, my DM is open.
 <a href="https://dvirsegal.netlify.app/"><img height="50" width="50" src="https://github.com/dvirsegal/dvirsegal/blob/master/website.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+
 ### My Digital Footprints 🌱
 
 I regularly blog on my personal [Medium](https://dvirsegal.medium.com/) blog.

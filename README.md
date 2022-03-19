@@ -14,6 +14,8 @@ AMA on working in tech, my DM is open.
 <a href="https://dvirsegal.netlify.app/"><img height="50" width="50" src="https://github.com/dvirsegal/dvirsegal/blob/master/website.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
+### Latest blog posts 📕
+
 <!-- BLOG-POST-LIST:START -->
 - [Should devs write automation tests?](https://medium.com/geekculture/should-devs-write-automation-tests-a23e2e838424?source=rss-c9904a464f9b------2)
 - [Switch tech stacks: boost your career growth](https://medium.com/geekculture/switch-tech-stacks-boost-your-career-growth-4d7d9a7d49bc?source=rss-c9904a464f9b------2)

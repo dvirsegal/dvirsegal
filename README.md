@@ -17,11 +17,11 @@ AMA on working in tech, my DM is open.
 ### Latest blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [In the quest for growth material](https://dvirsegal.medium.com/in-the-quest-for-growth-material-8f9fbece9e97?source=rss-c9904a464f9b------2)
 - [Should devs write automation tests?](https://medium.com/geekculture/should-devs-write-automation-tests-a23e2e838424?source=rss-c9904a464f9b------2)
 - [Switch tech stacks: boost your career growth](https://medium.com/geekculture/switch-tech-stacks-boost-your-career-growth-4d7d9a7d49bc?source=rss-c9904a464f9b------2)
 - [How to use docker-compose, volumes, networks, and more](https://faun.pub/how-to-use-docker-compose-volumes-networks-and-more-24f82169c077?source=rss-c9904a464f9b------2)
 - [How to run, delete a Docker image](https://faun.pub/how-to-run-delete-a-docker-image-edae8607a44?source=rss-c9904a464f9b------2)
-- [How to create&amp;build a Docker image](https://faun.pub/how-to-create-build-a-docker-image-75f10891e320?source=rss-c9904a464f9b------2)
 <!-- BLOG-POST-LIST:END -->
 
 

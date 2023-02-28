@@ -33,8 +33,7 @@ Writing about my software development experiece, soft skills and stuff I learn a
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-   - Developing innovative genetic counseling solutions which put the customers at the center. <br/>
-   - Working with Java Spring <br/>
+   - Working with .NET Framework, Standard and Core while writing in C# <br/>
    - Building something awesome <br/>
    - Blogging (Posting, SEO, Readability etc) <br/>
    - Team Leading 

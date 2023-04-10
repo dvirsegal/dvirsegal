@@ -17,11 +17,11 @@ AMA on working in tech, my DM is open.
 ### Latest blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [Navigating through the job search](https://dvirsegal.medium.com/navigating-through-the-job-search-599b1bc4221f?source=rss-c9904a464f9b------2)
 - [Failing fast to increase feedback loops](https://dvirsegal.medium.com/failing-fast-to-increase-feedback-loops-6d08f013fa9b?source=rss-c9904a464f9b------2)
 - [How to organize a drawer the right way](https://dvirsegal.medium.com/how-to-organize-a-drawer-the-right-way-4db782c07976?source=rss-c9904a464f9b------2)
 - [Where do I get writing ideas from?](https://dvirsegal.medium.com/where-do-i-get-writing-ideas-from-bc98bb8d17d4?source=rss-c9904a464f9b------2)
 - [Is Code freeze still relevant?](https://medium.com/geekculture/is-code-freeze-still-relevant-9c077495b64?source=rss-c9904a464f9b------2)
-- [In the quest for growth material](https://dvirsegal.medium.com/in-the-quest-for-growth-material-8f9fbece9e97?source=rss-c9904a464f9b------2)
 <!-- BLOG-POST-LIST:END -->
 
 

@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 */6 * * *' # Run every 6 hours
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
 
 jobs:
@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Pull in my medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@dvirsegal"
+          feed_list: "https://dvirsegal.medium.com/feed"

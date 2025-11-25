@@ -14,6 +14,5 @@ jobs:
       - name: Pull in my medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dvirsegal.medium.com/feed"
-          # This mimics a standard Chrome browser to bypass the 403 block
-          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+          # Wrap your URL with the rss2json API
+          feed_list: "https://api.rss2json.com/v1/api.json?rss_url=https://dvirsegal.medium.com/feed"

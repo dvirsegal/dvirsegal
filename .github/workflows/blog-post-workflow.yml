@@ -6,13 +6,17 @@ on:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+      
+      # Step 1: Fetch the feed using curl (which mimics a browser)
+      - name: Fetch Medium Feed
+        run: |
+          curl -H "User-Agent: Mozilla/5.0" -L -o feed.xml "https://dvirsegal.medium.com/feed"
+
+      # Step 2: Point the action to the local file
       - name: Pull in my medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          # Wrap your URL with the rss2json API
-          feed_list: "https://api.rss2json.com/v1/api.json?rss_url=https://dvirsegal.medium.com/feed"
+          feed_list: "./feed.xml"

@@ -6,17 +6,13 @@ on:
 
 jobs:
   update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      
-      # Step 1: Fetch the feed using curl (which mimics a browser)
-      - name: Fetch Medium Feed
-        run: |
-          curl -H "User-Agent: Mozilla/5.0" -L -o feed.xml "https://dvirsegal.medium.com/feed"
-
-      # Step 2: Point the action to the local file
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: Pull in my medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "./feed.xml"
+          # This proxy fetches the feed and serves it as raw XML
+          feed_list: "https://api.allorigins.win/raw?url=https://dvirsegal.medium.com/feed"

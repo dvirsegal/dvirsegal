@@ -1,35 +1,18 @@
 name: Latest blog post workflow
 on:
-  schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+  schedule: # Run workflow automatically
+    - cron: '0 0 * * *' # Run every 24 hours (at 00:00 UTC)
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
+
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Required to push the feed.xml file
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      # Step 1: Download the feed as a browser (bypasses Medium block)
-      - name: Fetch Medium Feed
-        run: |
-          curl -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" -L -o feed.xml "https://dvirsegal.medium.com/feed"
-
-      # Step 2: Commit the feed.xml to your repo
-      - name: Commit feed.xml
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add feed.xml
-          # Only commit if it changed
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update feed.xml" && git push)
-
-      # Step 3: Use the RAW GitHub URL of the file we just pushed
-      - name: Pull in posts from valid Raw URL
+      - name: Pull in my medium posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://raw.githubusercontent.com/dvirsegal/dvirsegal/master/feed.xml"
+          feed_list: "https://dvirsegal.medium.com/feed"

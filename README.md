@@ -17,11 +17,11 @@ AMA on working in tech, my DM is open.
 ### Latest blog posts 📕
 
 <!-- BLOG-POST-LIST:START -->
+- [The Joy of Negative Code Lines](https://dvirsegal.medium.com/the-joy-of-negative-code-lines-5440ae1f26a6?source=rss-c9904a464f9b------2)
 - [Write boring code](https://dvirsegal.medium.com/write-boring-code-e6a80c8311bb?source=rss-c9904a464f9b------2)
 - [Building LEGO without instructions](https://dvirsegal.medium.com/building-lego-without-instructions-c5aacfcc696f?source=rss-c9904a464f9b------2)
 - [TIFU at work: Learn and move on!](https://dvirsegal.medium.com/tifu-at-work-learn-and-move-on-cf357f50e674?source=rss-c9904a464f9b------2)
 - [The power of the unit tests](https://dvirsegal.medium.com/the-power-of-the-unit-tests-73badc0fbf28?source=rss-c9904a464f9b------2)
-- [Navigating through the job search](https://dvirsegal.medium.com/navigating-through-the-job-search-599b1bc4221f?source=rss-c9904a464f9b------2)
 <!-- BLOG-POST-LIST:END -->
 
 

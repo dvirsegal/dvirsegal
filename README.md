@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I am Dvir Segal!
 I am a software developer in the quest for knowledge. I truly believe there's no such thing as a stupid question.
-What guides me is that the code is the mean for the business and not the end. I love tech, being up to date with it, having a passion for learning and sharing my knowledge.
+What guides me is that code is a means to the business's goals, not the goal itself. I love tech, being up to date with it, having a passion for learning and sharing my knowledge.
 If you found value in something I have created, please feel free to give me a shout out or give some ♥ [@dvir_segal](https://twitter.com/dvir_segal). 
 
 AMA on working in tech, my DM is open.
@@ -29,10 +29,10 @@ AMA on working in tech, my DM is open.
 
 I regularly blog on my personal [Medium](https://dvirsegal.medium.com/) blog.
 
-Writing about my software development experiece, soft skills and stuff I learn along the way.
+Writing about my software development experience, soft skills and stuff I learn along the way.
 
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+ <summary><strong>What I'm learning/working on these days</strong></summary>
    - Working with .NET Framework, Standard and Core while writing in C# <br/>
    - Building something awesome <br/>
    - Blogging (Posting, SEO, Readability etc) <br/>

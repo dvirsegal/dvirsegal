@@ -27,13 +27,13 @@ AMA on working in tech, my DM is open.
 
 ### My Digital Footprints 🌱
 
-I regularly blog on my personal [Medium](https://dvirsegal.medium.com/) blog.
+I regularly blog on my [personal blog](https://dvirsegal.github.io/) and cross-post to [Medium](https://dvirsegal.medium.com/).
 
 Writing about my software development experience, soft skills and stuff I learn along the way.
 
 <details>
  <summary><strong>What I'm learning/working on these days</strong></summary>
-   - Working with .NET Framework, Standard and Core while writing in C# <br/>
+   - Writing C# on modern .NET, and exploring AI-assisted development workflows <br/>
    - Building something awesome <br/>
    - Blogging (Posting, SEO, Readability etc) <br/>
    - Team Leading 

@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I am Dvir Segal!
-I am a Staff Software Engineer in the quest for knowledge. I truly believe there's no such thing as a stupid question.
+I am a software engineer in the quest for knowledge. I truly believe there's no such thing as a stupid question.
 What guides me is that code is a means to the business's goals, not the goal itself. I love tech, being up to date with it, having a passion for learning and sharing my knowledge.
 If you found value in something I have created, please feel free to give me a shout out or give some ♥ [@dvir_segal](https://x.com/dvir_segal). 
 
